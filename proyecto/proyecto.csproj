@@ -236,6 +236,7 @@
     <Content Include="App_Browsers\qt.browser" />
     <Content Include="Views\Default\PDF.cshtml" />
     <Content Include="Views\Error\_ErrorPage.cshtml" />
+    <Content Include="Views\index.html" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
